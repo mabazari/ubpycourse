@@ -1,4 +1,4 @@
-antonym=dict()
+antonym=dict()    
 while True:
     w1 = input("pleas enter a word=")
     w1 = w1.lower()
